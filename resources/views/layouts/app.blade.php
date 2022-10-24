@@ -15,9 +15,6 @@
     @endphp
     <script type="module" src="/build/{$manifest['resources/js/app.js']['file']}"></script>
     <link rel="stylesheet" href="/build/{$manifest['resources/js/app.js']['css'][0]}">
-@else
-    <script type="module" src="http://localhost:3000/@vite/client"></script>
-    <script type="module" src="http://localhost:3000/resources/js/app.js"></script>
 @endproduction
 
 </head>
