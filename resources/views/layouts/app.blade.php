@@ -10,8 +10,8 @@
   {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
 
 
-    <script type="module" src="<?php echo asset('resources/js/app.334e7359.js')?>"></script>
-    <link rel="stylesheet" href="<?php echo asset('resources/css/app.3496d2b4.css')?>">
+    <script type="module" src='resources/js/app.334e7359.js'></script>
+    <link rel="stylesheet" href="resources/css/app.3496d2b4.css'>
 
 
 </head>
