@@ -18,7 +18,7 @@
               <div class="rounded-t mb-0 px-6 py-6">
                 <div class="text-center mb-3">
                   <h6 class="text-blueGray-500 text-lg font-bold">
-                    تسجيل الدخول
+                    تسجيل ddd
                   </h6>
                 </div>
 
