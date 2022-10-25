@@ -10,8 +10,12 @@
   {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
 
 
-    <script type="module" src='resources/js/app.334e7359.js'></script>
-    <link rel="stylesheet" href="resources/css/app.3496d2b4.css'>
+
+  {{ HTML::style('app.3496d2b4.css'); }}
+
+  {{ HTML::script('app.334e7359.js'); }}
+
+
 
 
 </head>
