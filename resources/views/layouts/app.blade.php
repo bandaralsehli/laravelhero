@@ -10,12 +10,12 @@
   {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
 
 
-  @viteReactRefresh --}}
+  @viteReactRefresh 
   @vite(['resources/css/app.css', 'resources/js/app.js'])
   
 
     <!-- Stuff -->
-   {{ vite_assets() }}
+   <!--{{ vite_assets() }}-->
     <!-- More Stuff -->
 
 </head>
