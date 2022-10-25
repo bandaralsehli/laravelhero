@@ -14,9 +14,7 @@
   @vite(['resources/css/app.css', 'resources/js/app.js'])
   
 
-    <!-- Stuff -->
-   <!--{{ vite_assets() }}-->
-    <!-- More Stuff -->
+  
 
 </head>
 
