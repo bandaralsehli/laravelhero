@@ -11,11 +11,12 @@
 
 
 
-  {{ HTML::style('app.3496d2b4.css'); }}
+  {{-- {{ HTML::style('app.3496d2b4.css'); }} --}}
 
-  {{ HTML::script('app.334e7359.js'); }}
+  {{-- {{ HTML::script('app.334e7359.js'); }} --}}
 
-
+  <link rel="stylesheet" href="{{asset('app.3496d2b4.css')}}">
+  <script src="{{asset('app.334e7359.js')}}"></script>
 
 
 </head>
