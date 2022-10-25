@@ -17,6 +17,8 @@
 
   <link rel="stylesheet" href="{{asset('app.3496d2b4.css')}}">
   <script src="{{asset('app.334e7359.js')}}"></script>
+  <script type="text/javascript" src="{{ URL::asset('app.334e7359.js') }}"></script>
+  <link rel="stylesheet" href="{{ URL::asset('app.3496d2b4.css') }}" />
 
 
 </head>
