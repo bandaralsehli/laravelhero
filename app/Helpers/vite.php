@@ -27,8 +27,8 @@ if (! function_exists('vite_assets')) {
             public_path('build/manifest.json')
         ), true);
         return new HtmlString(<<<HTML
-        <script type="module" src="/build/{$manifest['resources/js/app.js']['file']}"></script>
-        <link rel="stylesheet" href="/build/{$manifest['resources/js/app.css']['css'][0]}">
+        <script type="module" src="/build/assets/app.334e7359"></script>
+        <link rel="stylesheet" href="/build/assets/app.3496d2b4.css">
     HTML);
     }
 }
